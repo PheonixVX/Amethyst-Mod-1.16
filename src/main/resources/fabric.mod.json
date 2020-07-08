@@ -10,10 +10,10 @@
 	"Original code by MCrafterzz"
   ],
   "contact": {
-    "sources": "https://github.com/PheonixVX"
+    "sources": "https://github.com/PheonixVX/Amethyst-Mod-1.16"
   },
 
-  "license": "MIT",
+  "license": "CC0-1.0",
 
   "environment": "*",
   "entrypoints": {
