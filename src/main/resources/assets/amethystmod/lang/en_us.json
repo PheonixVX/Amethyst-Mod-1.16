@@ -1,0 +1,19 @@
+{
+	"itemGroup.amethystmod.amethystmod":"Amethyst Mod",
+
+	"block.amethystmod.amethyst_ore":"Amethyst Ore",
+	"block.amethystmod.amethyst_block":"Amethyst Block",
+	
+	"item.amethystmod.amethyst":"Amethyst",
+	"item.amethystmod.amethyst_multitool":"Amethyst Multitool",
+	"item.amethystmod.amethyst_hammer":"Amethyst Hammer",
+	"item.amethystmod.amethyst_sword":"Amethyst Sword",
+	"item.amethystmod.amethyst_shovel":"Amethyst Shovel",
+	"item.amethystmod.amethyst_pickaxe":"Amethyst Pickaxe",
+	"item.amethystmod.amethyst_axe":"Amethyst Axe",
+	"item.amethystmod.amethyst_hoe":"Amethyst Hoe",
+	"item.amethystmod.amethyst_helmet":"Amethyst Helmet",
+	"item.amethystmod.amethyst_chestplate":"Amethyst Chestplate",
+	"item.amethystmod.amethyst_leggings":"Amethyst Leggings",
+	"item.amethystmod.amethyst_boots":"Amethyst Boots"
+}

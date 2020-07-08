@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "amethystmod:amethyst_axe"
+    },
+	{
+      "item": "amethystmod:amethyst_pickaxe"
+    },
+	{
+      "item": "amethystmod:amethyst_shovel"
+    }
+  ],
+  "result": {
+    "item": "amethystmod:amethyst_multitool",
+    "count": 1
+  }
+}

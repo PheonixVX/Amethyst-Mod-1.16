@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "amethystmod",
+  "version": "${version}",
+
+  "name": "Amethyst Mod",
+  "description": "Amethyst Mod for 1.16; Adds a tier after diamond",
+  "authors": [
+    "Ported by PheonixVX",
+	"Original code by MCrafterzz"
+  ],
+  "contact": {
+    "sources": "https://github.com/PheonixVX"
+  },
+
+  "license": "MIT",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.github.PheonixVX.AmethystMod"
+    ]
+  },
+  "mixins": [
+    "pheonixvx.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
